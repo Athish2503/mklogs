@@ -1,0 +1,18 @@
+{
+  "id": "6a55bdc4af23e075861e7961",
+  "timestamp": 1784004036000,
+  "date": "2026-07-14T04:40:36.000Z",
+  "wpm": 76.8,
+  "rawWpm": 76.8,
+  "accuracy": 92.45,
+  "consistency": 64.04,
+  "mode": "time",
+  "mode2": "15",
+  "duration": 15,
+  "charStats": [
+    96,
+    0,
+    0,
+    0
+  ]
+}
